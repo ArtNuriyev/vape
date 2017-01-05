@@ -9,4 +9,3 @@
 //= require spree/backend
 
 //= require_tree .
-//= require spree/backend/spree_paypal_express
